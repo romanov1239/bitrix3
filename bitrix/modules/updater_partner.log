@@ -1,0 +1,48 @@
+2024-12-08 22:05:06 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-12-08 22:05:06 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-12-08 22:05:06 -  - exec CUpdateClientPartner::ParseServerData
+2024-12-08 22:05:06 -  - exec CUpdateClientPartner::GetUpdatesList
+2024-12-08 22:05:06 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-12-08 22:05:06 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=6.shurikromanov.site&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=5.7.21&instm=main%2C23.300.100%2CY%3Bb24connector%2C22.0.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Brest%2C23.100.0%2CN%3Bseo%2C23.200.0%2CN%3Blocation%2C23.0.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bsearch%2C22.100.0%2CN%3Biblock%2C23.100.0%2CN%3Bclouds%2C23.0.0%2CN%3Bfileman%2C22.300.0%2CN%3Btranslate%2C23.200.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bui%2C22.1600.0%2CN%3Bperfmon%2C21.0.0%2CN&reqm=bitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2024-12-08 22:05:06 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-12-08 22:05:06 -  - TIME GetUpdatesList(request) 0.145 sec
+2024-12-08 22:05:06 -  - exec CUpdateClientPartner::ParseServerData
+2024-12-08 22:05:06 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-12-08 22:05:06 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-12-08 22:05:06 -  - exec CUpdateClientPartner::ParseServerData
+2024-12-09 22:09:33 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-12-09 22:09:33 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-12-09 22:09:33 -  - exec CUpdateClientPartner::ParseServerData
+2024-12-09 22:09:33 -  - exec CUpdateClientPartner::GetUpdatesList
+2024-12-09 22:09:33 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-12-09 22:09:33 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=6.shurikromanov.site&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=5.7.21&instm=main%2C23.300.100%2CY%3Bb24connector%2C22.0.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Brest%2C23.100.0%2CN%3Bseo%2C23.200.0%2CN%3Blocation%2C23.0.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bsearch%2C22.100.0%2CN%3Biblock%2C23.100.0%2CN%3Bclouds%2C23.0.0%2CN%3Bfileman%2C22.300.0%2CN%3Btranslate%2C23.200.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bui%2C22.1600.0%2CN%3Bperfmon%2C21.0.0%2CN&reqm=bitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2024-12-09 22:09:33 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-12-09 22:09:33 -  - TIME GetUpdatesList(request) 0.127 sec
+2024-12-09 22:09:33 -  - exec CUpdateClientPartner::ParseServerData
+2024-12-09 22:09:33 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-12-09 22:09:33 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-12-09 22:09:33 -  - exec CUpdateClientPartner::ParseServerData
+2024-12-10 22:18:35 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-12-10 22:18:35 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-12-10 22:18:35 -  - exec CUpdateClientPartner::ParseServerData
+2024-12-10 22:18:35 -  - exec CUpdateClientPartner::GetUpdatesList
+2024-12-10 22:18:35 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-12-10 22:18:35 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=6.shurikromanov.site&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=5.7.21&instm=main%2C23.300.100%2CY%3Bb24connector%2C22.0.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Brest%2C23.100.0%2CN%3Bseo%2C23.200.0%2CN%3Blocation%2C23.0.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bsearch%2C22.100.0%2CN%3Biblock%2C23.100.0%2CN%3Bclouds%2C23.0.0%2CN%3Bfileman%2C22.300.0%2CN%3Btranslate%2C23.200.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bui%2C22.1600.0%2CN%3Bperfmon%2C21.0.0%2CN&reqm=bitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2024-12-10 22:18:35 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-12-10 22:18:35 -  - TIME GetUpdatesList(request) 0.129 sec
+2024-12-10 22:18:35 -  - exec CUpdateClientPartner::ParseServerData
+2024-12-10 22:18:35 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-12-10 22:18:35 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-12-10 22:18:35 -  - exec CUpdateClientPartner::ParseServerData
+2024-12-13 21:53:55 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-12-13 21:53:55 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-12-13 21:53:55 -  - exec CUpdateClientPartner::ParseServerData
+2024-12-13 21:53:55 -  - exec CUpdateClientPartner::GetUpdatesList
+2024-12-13 21:53:55 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-12-13 21:53:55 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=6.shurikromanov.site&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=5.7.21&instm=main%2C23.300.100%2CY%3Bb24connector%2C22.0.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Brest%2C23.100.0%2CN%3Bseo%2C23.200.0%2CN%3Blocation%2C23.0.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bsearch%2C22.100.0%2CN%3Biblock%2C23.100.0%2CN%3Bclouds%2C23.0.0%2CN%3Bfileman%2C22.300.0%2CN%3Btranslate%2C23.200.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bui%2C22.1600.0%2CN%3Bperfmon%2C21.0.0%2CN&reqm=bitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2024-12-13 21:53:55 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-12-13 21:53:55 -  - TIME GetUpdatesList(request) 0.121 sec
+2024-12-13 21:53:55 -  - exec CUpdateClientPartner::ParseServerData
+2024-12-13 21:53:55 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-12-13 21:53:55 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-12-13 21:53:56 -  - exec CUpdateClientPartner::ParseServerData

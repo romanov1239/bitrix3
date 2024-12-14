@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/main/css/screen.css" => "173385898650621","/local/templates/main/font/font.css" => "17338589877145","/local/templates/main/css/jquery.fancybox.css" => "173385898617700","/local/templates/main/css/jquery.bxslider.css" => "17338589863841",]; ?>

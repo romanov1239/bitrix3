@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/main/js/jquery-3.1.1.min.js" => "173385898786709","/local/templates/main/js/jquery.fancybox.min.js" => "173385898761486","/local/templates/main/js/jquery.bxslider.min.js" => "173385898723543","/local/templates/main/js/jquery.formstyler.min.js" => "173385898718037","/local/templates/main/js/main.js" => "1733858987603",]; ?>
